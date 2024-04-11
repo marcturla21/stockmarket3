@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:carousel_slider/carousel_slider.dart'; // Import carousel_slider package
+import 'gainer.dart';
 import 'stock.dart'; // Import stock.dart file to access StockPage widget
-import 'package:stockmarket/gainer.dart';
+import 'package:stockmarket3/gainer.dart';
 import 'loser.dart';
 import 'news.dart';
 import 'newspage.dart';
